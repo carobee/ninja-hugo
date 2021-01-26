@@ -11,6 +11,18 @@
     {{ range .Site.Params.Advanced.customCSS -}}
       <link rel="stylesheet" href="{{ . | relURL }}" />
     {{- end }}
+
+    <script data-ad-client="ca-pub-3996809670459584" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MNQS94M0ZR"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-MNQS94M0ZR');
+    </script>
+
   </head>
 
   <body class="default">
@@ -41,8 +53,8 @@
       <script src="{{ . | relURL }}"></script>
     {{- end }}
 
-    {{ if .Site.GoogleAnalytics }}
-      {{ template "_internal/google_analytics_async.html" . }}
-    {{ end }}
+      
+
+
   </body>
 </html>
