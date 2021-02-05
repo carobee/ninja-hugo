@@ -17,7 +17,12 @@
       </p>
     </div>
     <div class="description">
-      {{ .Summary | emojify | safeHTML }}
+      {{ if .Params.blabla }}
+        <i class="quote left icon"></i>&nbsp;
+        {{ .Params.blabla  | safeHTML  }}
+      {{ else }}
+        {{ .Summary | safeHTML }}
+      {{ end }}
     </div>
   </div>
 
