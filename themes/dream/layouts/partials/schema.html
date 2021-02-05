@@ -10,7 +10,7 @@
       ],
       "author": {
         "@type": "Person",
-        "name": "{{ .Params.author }}"
+        "name": "{{ .Site.Params.author }}"
       },
       "datePublished": "{{ .Date.Format "2006-01-02" }}",
       "description": "{{ .Params.description | plainify }}",
