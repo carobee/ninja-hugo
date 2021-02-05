@@ -4,7 +4,6 @@ categories = []
 cooktime = "30M"
 date = 2021-02-04T23:00:00Z
 description = "Avec des morceaux de poulet au choix (cuisses, manchons...) et des pommes de terre"
-draft = true
 image1 = "/images/recettes/sales/cuisses-poulet-frites/cuisses-poulet-frites-6.jpg"
 image2 = "/images/recettes/sales/cuisses-poulet-frites/cuisses-poulet-frites-1.jpg"
 ingredients = ["sel", "paprika", "herbes de provence", "1 oignon", "Huile d'olive", "3 cuisses de poulet", "6 pommes de terre moyennes"]
