@@ -1,7 +1,7 @@
 <article class="ui attached segment card dream-card">
   <a class="image" href="{{ .Permalink }}">
-    {{ if isset .Params "image" }}
-      <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+    {{ if isset .Params "image1" }}
+      <img src="{{ .Params.image1 }}" alt="{{ .Title }}" />
     {{ else }}
       <img src="/img/default{{ index (shuffle (seq 1 4)) 0 }}.jpg" alt="{{ .Title }}" />
     {{ end }}
