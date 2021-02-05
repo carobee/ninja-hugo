@@ -21,9 +21,9 @@
 {{ define "main" }}
 <div class="ui centered relaxed grid dream-grid">
   <div class="sixteen wide mobile sixteen wide tablet twelve wide computer column markdown-body dream-single" id="dream-save-post-as-img">
-    {{ if and .Params.image .Site.Params.showSummaryCoverInPost }}
+    {{ if and .Params.image1 .Site.Params.showSummaryCoverInPost }}
     <section class="ui top attached segment cover">
-      <div class="cover-img" style="background-image: url({{ .Params.image }});"></div>
+      <div class="cover-img" style="background-image: url({{ .Params.image1 }});"></div>
     </section>
     {{ end }}
     <section class="ui {{ if not .Site.Params.showSummaryCoverInPost }}top {{ end }}attached segment">
@@ -47,7 +47,48 @@
         </h1>
       </header>
 
-      <article class="main">{{ .Content | emojify }}</article>
+      <!-- BLABLA -->
+      {{ if .Params.blabla }}
+      <div class="blabla">
+          <i class="quote left icon"></i>&nbsp;
+          {{ .Params.blabla }}
+          &nbsp;<i class="quote right icon"></i>
+      </div>
+      <br>
+      {{ end }}
+
+      <!-- INGREDIENTS -->
+      {{ if .Params.ingredients }}
+      <div class="box-ingredients">
+        <p class="donnees-recette">
+          <i class="users icon"></i>&nbsp;<span class="yield">{{ .Params.quantite }}</span>
+          <br><i class="clock icon"></i>&nbsp;Préparation <span class="preptime">{{ .Params.preptime }}<span class="duration"><span class="value-title" title="PT{{ .Params.preptime }}"></span></span></span>
+          | Cuisson <span class="cooktime">{{ .Params.cooktime }}<span class="duration"><span class="value-title" title="PT{{ .Params.cooktime }}"></span></span></span>
+          | Temps total <span class="totaltime">{{ .Params.totaltime }}<span class="duration"><span class="value-title" title="PT{{ .Params.totaltime }}"></span></span></span>
+        </p>
+        <hr>
+        <h4>Ingrédients :</h4>
+        <ul class="list-ingredients" style="list-style-type: none;">
+          {{ range .Params.ingredients }}
+          <li><i class="caret right icon"></i>&nbsp;{{- . -}}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      <!-- PHOTO 2 -->
+      {{ if .Params.image2 }}
+        {{ with .Params.image2 }}
+        <div class="photo2">  
+          <img class="img-fluid" src="{{ . | absURL }}" alt="photo préparation recette">
+        </div>
+        {{ end }}
+      {{ end }}
+
+      <article class="main">
+        <h2></h2>
+        {{ .Content | emojify }}
+      </article>
     </section>
 
     <footer class="ui attached segment dream-tags" data-html2canvas-ignore>
