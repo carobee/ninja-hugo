@@ -44,3 +44,5 @@ fields:
 - type: textarea
   name: blabla
   label: blabla
+pages:
+- content/manchons-de-poulet-et-frites.md
