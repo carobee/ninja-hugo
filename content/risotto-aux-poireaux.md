@@ -1,28 +1,32 @@
-+++
-categories = ["Salés"]
-date = 2021-01-18T23:00:00Z
-description = "Voici une première recette pour ce site : un risotto super rapide cuit en 10 minutes en mode pressure avec le ninja foodi"
-image = "/images/recettes/sales/risotto-poireaux/risotto-poireaux.jpg"
-tags = ["risotto", "pressure", "poireaux", "végétarien", "plat complet", "rapide"]
-title = "Risotto aux poireaux"
-type = "post"
+---
+type: "post"
+title: "Risotto aux poireaux"
+categories:
+ - Plats
+date: 2021-01-18T23:00:00Z
+description: "Voici une première recette pour ce site : un risotto super rapide cuit en 10 minutes en mode pressure avec le ninja foodi"
+image1: "/images/recettes/sales/risotto-poireaux/risotto-poireaux.jpg"
+image2: "/images/recettes/sales/risotto-poireaux/risotto-poireaux-1.jpg"
+tags:
+ - risotto
+ - pressure
+ - poireaux
+ - végétarien
+ - plat complet
+ - rapide
+ingredients:
+ - 3 ou 4 poireaux
+ - 1 tasse 1/2 de riz arborio spécial risotto (environ 250g)
+ - 1 litre de bouillon
+ - 1 brique de crème fraîche
+ - du parmesan (facultatif)
+quantite: Pour 4 personnes
+preptime: 5M
+cooktime: 15M
+totaltime: 20M
+blabla: "Bonjour, Aujourd'hui nous allons préparer un risotto aux poireaux. Bon, nous sommes d'accord, le vrai risotto ne se cuit pas en 10 minutes, mais ici c'est très rapide et simple et presque aussi bon qu'un vrai !"
 
-+++
-> Bonjour,
-> Aujourd'hui nous allons préparer un "risotto" aux poireaux. 
->
-> Bon, nous sommes d'accord, le vrai risotto ne se cuit pas en 10 minutes, mais ici c'est très rapide et simple et presque aussi bon qu'un vrai !
-
-## Ingrédients pour 4 personnes :
-
-* 3 ou 4 poireaux
-* 1 tasse 1/2 de riz arborio spécial risotto (environ 250g)
-* 1 litre de bouillon
-* 1 brique de crème fraîche
-* du parmesan (facultatif)
-
-![](/images/recettes/sales/risotto-poireaux/risotto-poireaux-1.jpg)
-
+---
 ## 1 - Faire sauter 
 
 Rincer et couper les poireaux en tronçons de 1/2 cm à 1 cm
