@@ -5,8 +5,8 @@ categories:
  - Plats
 date: 2021-01-18T23:00:00Z
 description: "Voici une première recette pour ce site : un risotto super rapide cuit en 10 minutes en mode pressure avec le ninja foodi"
-image1: "/images/recettes/sales/risotto-poireaux/risotto-poireaux.jpg"
-image2: "/images/recettes/sales/risotto-poireaux/risotto-poireaux-1.jpg"
+image1: "/images/recettes/plats/risotto-poireaux/risotto-poireaux.jpg"
+image2: "/images/recettes/plats/risotto-poireaux/risotto-poireaux-1.jpg"
 tags:
  - risotto
  - pressure
@@ -49,12 +49,12 @@ Mettre le couvercle spécial pression avec SEAL
 
 Quick release (relâcher la pression dès que ça bippe)
 
-![photo après ouverture du couvercle](/images/recettes/sales/risotto-poireaux/risotto-poireaux-4.jpg "photo après ouverture du couvercle")
+![photo après ouverture du couvercle](/images/recettes/plats/risotto-poireaux/risotto-poireaux-4.jpg "photo après ouverture du couvercle")
 
 Ajouter la crème fraîche et mélanger
 
-![Après ajout de la crème fraîche](/images/recettes/sales/risotto-poireaux/risotto-poireaux-5.jpg "Après ajout de la crème fraîche")
+![Après ajout de la crème fraîche](/images/recettes/plats/risotto-poireaux/risotto-poireaux-5.jpg "Après ajout de la crème fraîche")
 
 Servir chaud avec un peu de parmesan râpé si besoin
 
-  ![](/images/recettes/sales/risotto-poireaux/risotto-poireaux.jpg)
+  ![](/images/recettes/plats/risotto-poireaux/risotto-poireaux.jpg)
