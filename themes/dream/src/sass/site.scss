@@ -8,6 +8,13 @@ body {
   .os-host > .os-padding > .os-viewport > .os-content {
     height: auto !important;
   }
+
+  .photo2 {
+    text-align:center;
+  }
+  article > p > img {
+    padding-left : 10%;
+  }
 }
 
 .flip-container {
