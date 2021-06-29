@@ -22,7 +22,7 @@ tags: ["pommes", "beurre", "farine", "sucre", "vanille", "pressure", "air crisp"
 title: "Crumble aux pommes"
 totaltime: "33M"
 type: "post"
-
+author: Caro
 ---
 ## La cuisson des pommes :
 

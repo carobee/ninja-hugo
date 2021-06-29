@@ -14,7 +14,7 @@ tags: ["oignon", "pommes de terre", "marinade", "air crisp", "frites", "poulet"]
 title: "Manchons de poulet et frites"
 totaltime: "40M"
 type: "post"
-
+author: Caro
 ---
 ### La marinade pour le poulet :
 
