@@ -9,12 +9,7 @@ description: Un grand classique, mais ici, ce qui est pratique, c'est que tout e
 image1: "/images/recettes/plats/gratin-brocolis-bechamel/brocolis-bechamel-final.jpg"
 image2: "/images/recettes/plats/gratin-brocolis-bechamel/brocoli-bechamel-1.jpg"
 tags:
-- gratin
-- brocolis
-- bechamel
-- plat complet
 - steam
-- végétarien
 - air crisp
 ingredients:
 - 2 brocolis ou 1 chou-fleur

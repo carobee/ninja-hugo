@@ -17,7 +17,7 @@ rssLimit = 25
     description = "Recettes simples avec le Ninja Foodi, pour cuisiner tous les jours au Ninja Foodi"
     keywords = "recettes ninja foodi français, recettes ninja, recettes faciles au ninja, ninja foodi recette "
     author = "Caro"
-    googleAnalitycsID = "G-MNQS94M0ZR"
+    #googleAnalitycsID = "G-MNQS94M0ZR"
 
     # specifiques theme dream
     background = "#F8F8F8"

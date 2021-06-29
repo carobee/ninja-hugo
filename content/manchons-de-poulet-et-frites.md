@@ -10,7 +10,7 @@ image2: "/images/recettes/plats/cuisses-poulet-frites/cuisses-poulet-frites-1.jp
 ingredients: ["sel", "paprika", "herbes de provence", "1 oignon", "Huile d'olive", "3 cuisses de poulet", "6 pommes de terre moyennes"]
 preptime: "10M"
 quantite: "Pour 3 personnes"
-tags: ["oignon", "pommes de terre", "marinade", "air crisp", "frites", "poulet"]
+tags: ["air crisp"]
 title: "Manchons de poulet et frites"
 totaltime: "40M"
 type: "post"

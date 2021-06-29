@@ -8,12 +8,7 @@ description: "Voici une première recette pour ce site : un risotto super rapide
 image1: "/images/recettes/plats/risotto-poireaux/risotto-poireaux.jpg"
 image2: "/images/recettes/plats/risotto-poireaux/risotto-poireaux-1.jpg"
 tags:
- - risotto
  - pressure
- - poireaux
- - végétarien
- - plat complet
- - rapide
 ingredients:
  - 3 ou 4 poireaux
  - 1 tasse 1/2 de riz arborio spécial risotto (environ 250g)
