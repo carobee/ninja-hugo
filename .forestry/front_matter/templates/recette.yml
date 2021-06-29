@@ -1,0 +1,46 @@
+---
+label: Recette
+hide_body: false
+fields:
+- type: text
+  name: blabla
+  label: blabla
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: cooktime
+  label: cooktime
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image1
+  label: image1
+- type: file
+  name: image2
+  label: image2
+- type: list
+  name: ingredients
+  label: ingredients
+- type: text
+  name: preptime
+  label: preptime
+- type: text
+  name: quantite
+  label: quantite
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: text
+  name: totaltime
+  label: totaltime
+- type: text
+  name: type
+  label: type
