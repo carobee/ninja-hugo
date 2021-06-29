@@ -16,3 +16,20 @@ totaltime = "20M"
 type = "post"
 
 +++
+### SEAR - HI
+
+Avec de l'huile, faire revenir le riz pendant 2 minutes. Mélanger.
+
+Ajouter tous les légumes et mélanger pendant 1 minute.
+
+Ajouter les épices et mélanger pendant 2 minutes.
+
+Ajouter 2 tasses d'eau. Mélanger.
+
+Mettre le couvercle **Vapeur, valve sur VENT.**
+
+### STEAM - 8 MINUTES
+
+Attendre la fin de la pression.
+
+Ajouter les herbes avant de servir.
