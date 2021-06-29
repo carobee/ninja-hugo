@@ -2,6 +2,9 @@
 label: recette
 hide_body: false
 fields:
+- type: textarea
+  name: blabla
+  label: blabla
 - type: text
   name: type
   label: type
@@ -41,8 +44,5 @@ fields:
 - type: text
   name: totaltime
   label: totaltime
-- type: textarea
-  name: blabla
-  label: blabla
 pages:
 - content/manchons-de-poulet-et-frites.md
