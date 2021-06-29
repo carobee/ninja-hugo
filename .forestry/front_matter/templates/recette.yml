@@ -5,12 +5,15 @@ fields:
 - type: text
   name: blabla
   label: blabla
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
 - type: list
   name: categories
   label: categories
-- type: text
-  name: cooktime
-  label: cooktime
 - type: datetime
   name: date
   label: date
@@ -24,23 +27,20 @@ fields:
   name: image2
   label: image2
 - type: list
+  name: tags
+  label: tags
+- type: list
   name: ingredients
   label: ingredients
+- type: text
+  name: quantite
+  label: quantite
 - type: text
   name: preptime
   label: preptime
 - type: text
-  name: quantite
-  label: quantite
-- type: list
-  name: tags
-  label: tags
-- type: text
-  name: title
-  label: title
+  name: cooktime
+  label: cooktime
 - type: text
   name: totaltime
   label: totaltime
-- type: text
-  name: type
-  label: type
