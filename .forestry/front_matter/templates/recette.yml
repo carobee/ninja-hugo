@@ -4,45 +4,91 @@ hide_body: false
 fields:
 - type: textarea
   name: blabla
-  label: blabla
+  label: "(Facultatif) phrase sous la vignette photo"
+  config:
+    max: 50
+  default: ''
+  description: 'Ex : Ce crumble au Ninja est beaucoup plus rapide à préparer !'
 - type: text
   name: type
   label: type
+  default: post
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre de la recette
+  description: 'Ex : Crumble aux pommes'
 - type: list
   name: categories
-  label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+      section: pages
+    options:
+    - Desserts
+    - Plats
+    - Légumes
+    - Viandes
+    - Poissons
+    - Féculents
+    - Accompagnements
+  label: Une ou plusieurs catégories
 - type: datetime
   name: date
   label: date
+  hidden: true
+  default: now
+  config:
+    display_utc: true
 - type: textarea
   name: description
-  label: description
+  label: 'Phrase d''introduction sous la photo '
+  description: 'Ex : Une recette très facile de crumble aux pommes au ninja foodi'
 - type: file
   name: image1
-  label: image1
+  label: Photo principale, utilisée pour la vignette
 - type: file
   name: image2
-  label: image2
+  label: 'Photo 2 : dans le corps de l''article'
 - type: list
   name: tags
-  label: tags
+  label: Un ou plusieurs tags
+  description: 'Indiquer le ou les modes de cuisson, les ingrédients principaux...<br>Ex
+    : "pommes", "beurre", "farine", "sucre", "vanille", "pressure", "air crisp"'
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Air crisp
+    - Pressure
+    - Steam
+    - Bake
 - type: list
   name: ingredients
-  label: ingredients
+  label: Liste des ingrédients avec les quantités
+  description: Ex :<br>- "4 à 6 pommes (canada de préférence)" <br>- "100 g de sucre
+    roux" <br>- "100 g de farine" <br>- "80 g de  beurre doux" <br>- "vanille ou canelle"
+    <br>- "1 sachet de sucre vanillé" <br>- "jus de citron (facultatif)" <br>- "1
+    cuillère à soupe de miel (facultatif)"
+  config:
+    use_select: false
 - type: text
   name: quantite
-  label: quantite
+  label: nombre de parts / nombre de personnes
+  description: 'Ex : Pour 4 personnes'
 - type: text
   name: preptime
-  label: preptime
+  label: Temps de préparation
+  description: 'Ex : 10M'
 - type: text
   name: cooktime
-  label: cooktime
+  label: Temps de cuissin
+  description: 'Ex : 10M'
 - type: text
   name: totaltime
-  label: totaltime
+  label: Temps total (préparation + cuisson)
+  description: 'Ex : 20M '
 pages:
 - content/manchons-de-poulet-et-frites.md
