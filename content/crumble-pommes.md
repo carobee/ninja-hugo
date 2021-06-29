@@ -18,7 +18,7 @@ ingredients:
  - "1 cuillère à soupe de miel (facultatif)"
 preptime: "10M"
 quantite: "Pour 4 personnes"
-tags: ["pommes", "beurre", "farine", "sucre", "vanille", "pressure", "air crisp"]
+tags: ["pressure", "air crisp"]
 title: "Crumble aux pommes"
 totaltime: "33M"
 type: "post"
