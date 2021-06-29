@@ -3,20 +3,59 @@ label: Recette
 hide_body: false
 fields:
 - type: text
-  name: blabla
-  label: blabla
-- type: list
-  name: categories
-  label: categories
+  name: title
+  label: Titre
+  description: 'Ex : Crumble aux pommes'
+  config:
+    required: true
 - type: text
-  name: cooktime
-  label: cooktime
-- type: datetime
-  name: date
-  label: date
+  name: blabla
+  label: "(Facultatif) phrase sous la vignette"
+  description: 'Ex : Ce crumble au Ninja est beaucoup plus rapide à préparer !'
+  config:
+    max: 60
 - type: text
   name: description
-  label: description
+  label: Phrase description pour les mots clés
+  description: Une recette très facile de crumble aux pommes au ninja foodi
+- type: list
+  name: categories
+  label: La ou les catégories
+  description: 'Ex : plats, desserts, ...'
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Plats
+    - Desserts
+    - Légumes
+    - Féculents
+    min: 1
+- type: text
+  name: quantite
+  label: Nombre de parts / personnes
+  description: 'Ex : Pour 4 personnes'
+- type: text
+  name: preptime
+  label: Temps de préparation
+  description: 'Ex : 10M'
+- type: text
+  name: cooktime
+  label: Temps de cuisson
+  description: 'Ex : 10M'
+- type: text
+  name: totaltime
+  label: Temps total (préparation + cuisson)
+  description: 'Ex : 20M'
+- type: list
+  name: ingredients
+  label: Liste des ingrédients
+  description: 'Ex : <br>4 à 6 pommes (canada de préférence)<br>100 g de sucre roux<br>100
+    g de farine<br>80 g de  beurre doux....'
+  config:
+    use_select: false
+    min: 1
 - type: file
   name: image1
   label: image1
@@ -24,23 +63,33 @@ fields:
   name: image2
   label: image2
 - type: list
-  name: ingredients
-  label: ingredients
-- type: text
-  name: preptime
-  label: preptime
-- type: text
-  name: quantite
-  label: quantite
-- type: list
   name: tags
-  label: tags
-- type: text
-  name: title
-  label: title
-- type: text
-  name: totaltime
-  label: totaltime
+  label: Mots-clés
+  description: Indiquer le(s) mode(s) de cuisson ninja et les ingrédients principaux
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Air crisp
+    - Pressure
+    - Steam
+    - Bake
+    - Sear / Sauté
+    - Slow cook
+    - Grill
 - type: text
   name: type
   label: type
+  hidden: true
+  default: post
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  hidden: true
+  config:
+    display_utc: true
+    required: true
+  default: now
