@@ -1,5 +1,5 @@
 ---
-label: recette
+label: Recette
 hide_body: false
 fields:
 - type: textarea
@@ -10,52 +10,72 @@ fields:
   default: ''
   description: 'Ex : Ce crumble au Ninja est beaucoup plus rapide à préparer !'
 - type: text
-  name: type
-  label: type
-  default: post
-  hidden: true
-- type: text
   name: title
-  label: Titre de la recette
+  label: Titre
   description: 'Ex : Crumble aux pommes'
+  config:
+    required: true
+- type: text
+  name: blabla
+  label: "(Facultatif) phrase sous la vignette"
+  description: 'Ex : Ce crumble au Ninja est beaucoup plus rapide à préparer !'
+  config:
+    max: 60
+- type: text
+  name: description
+  label: Phrase description pour les mots clés
+  description: Une recette très facile de crumble aux pommes au ninja foodi
 - type: list
   name: categories
+  label: La ou les catégories
+  description: 'Ex : plats, desserts, ...'
   config:
     use_select: true
     source:
       type: simple
-      section: pages
     options:
-    - Desserts
     - Plats
+    - Desserts
     - Légumes
-    - Viandes
-    - Poissons
     - Féculents
-    - Accompagnements
-  label: Une ou plusieurs catégories
-- type: datetime
-  name: date
-  label: date
-  hidden: true
-  default: now
+    min: 1
+- type: text
+  name: quantite
+  label: Nombre de parts / personnes
+>>>>>>> dev
+  description: 'Ex : Pour 4 personnes'
+- type: text
+  name: preptime
+  label: Temps de préparation
+  description: 'Ex : 10M'
+- type: text
+  name: cooktime
+  label: Temps de cuisson
+  description: 'Ex : 10M'
+- type: text
+  name: totaltime
+  label: Temps total (préparation + cuisson)
+  description: 'Ex : 20M'
+- type: list
+  name: ingredients
+  label: Liste des ingrédients
+  description: 'Ex : <br>4 à 6 pommes (canada de préférence)<br>100 g de sucre roux<br>100
+    g de farine<br>80 g de  beurre doux....'
   config:
-    display_utc: true
-- type: textarea
-  name: description
-  label: 'Phrase d''introduction sous la photo '
-  description: 'Ex : Une recette très facile de crumble aux pommes au ninja foodi'
+    use_select: false
+    min: 1
 - type: file
   name: image1
-  label: Photo principale, utilisée pour la vignette
+  label: Photo finale (assiette ou plat de présentation)
+  description: Photo qui sera utilisée pour la vignette
 - type: file
   name: image2
-  label: 'Photo 2 : dans le corps de l''article'
+  label: Photo 1 dans l'article
+  description: Photo des ingrédients avant la préparation
 - type: list
   name: tags
-  label: Un ou plusieurs tags
-  description: 'Indiquer le ou les modes de cuisson, les ingrédients principaux...<br>Ex
-    : "pommes", "beurre", "farine", "sucre", "vanille", "pressure", "air crisp"'
+  label: Mots-clés
+  description: Indiquer le(s) mode(s) de cuisson ninja
   config:
     use_select: true
     source:
@@ -65,30 +85,21 @@ fields:
     - Pressure
     - Steam
     - Bake
-- type: list
-  name: ingredients
-  label: Liste des ingrédients avec les quantités
-  description: Ex :<br>- "4 à 6 pommes (canada de préférence)" <br>- "100 g de sucre
-    roux" <br>- "100 g de farine" <br>- "80 g de  beurre doux" <br>- "vanille ou canelle"
-    <br>- "1 sachet de sucre vanillé" <br>- "jus de citron (facultatif)" <br>- "1
-    cuillère à soupe de miel (facultatif)"
+    - Sear / Sauté
+    - Slow cook
+    - Grill
+- type: text
+  name: type
+  label: type
+  hidden: true
+  default: post
   config:
-    use_select: false
-- type: text
-  name: quantite
-  label: nombre de parts / nombre de personnes
-  description: 'Ex : Pour 4 personnes'
-- type: text
-  name: preptime
-  label: Temps de préparation
-  description: 'Ex : 10M'
-- type: text
-  name: cooktime
-  label: Temps de cuissin
-  description: 'Ex : 10M'
-- type: text
-  name: totaltime
-  label: Temps total (préparation + cuisson)
-  description: 'Ex : 20M '
-pages:
-- content/manchons-de-poulet-et-frites.md
+    required: true
+- type: datetime
+  name: date
+  label: date
+  hidden: true
+  config:
+    display_utc: true
+    required: true
+  default: now
