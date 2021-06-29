@@ -58,14 +58,16 @@ fields:
     min: 1
 - type: file
   name: image1
-  label: image1
+  label: Photo finale (assiette ou plat de présentation)
+  description: Photo qui sera utilisée pour la vignette
 - type: file
   name: image2
-  label: image2
+  label: Photo 1 dans l'article
+  description: Photo des ingrédients avant la préparation
 - type: list
   name: tags
   label: Mots-clés
-  description: Indiquer le(s) mode(s) de cuisson ninja et les ingrédients principaux
+  description: Indiquer le(s) mode(s) de cuisson ninja
   config:
     use_select: true
     source:
