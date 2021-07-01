@@ -1,40 +1,29 @@
 baseURL = "https://www.recettes-ninja-foodi.fr"
-title = "Recettes Ninja Foodi"
-languageCode = "fr-fr"
-theme = "dream"
-summaryLength = 10
-removePathAccents=true
-enableRobotsTXT=true
 copyright = "Copyright © 2021. All Rights Reserved"
+enableRobotsTXT = true
+languageCode = "fr-fr"
+removePathAccents = true
 rssLimit = 25
-
+summaryLength = 10
+theme = "dream"
+title = "Recettes Ninja Foodi"
 [author]
-    name = "Caro"
-[params]
-    headerTitle= "Recettes Ninja Foodi"
-    home= "Accueil"
-    logo = "images/logo.png"
-    description = "Recettes simples avec le Ninja Foodi, pour cuisiner tous les jours au Ninja Foodi"
-    keywords = "recettes ninja foodi français, recettes ninja, recettes faciles au ninja, ninja foodi recette "
-    author = "Caro"
-    googleAnalitycsID = "G-MNQS94M0ZR"
-
-    # specifiques theme dream
-    background = "#F8F8F8"
-    #backgroundImage = "/images/backgrounds/bears-garlic-lighter-60.jpg"
-    #linkColor = "#fa749e"
-    #avatar = "/images/logo.png"
-    motto = "Recettes simples avec le Ninja Foodi"
-    categoriesLimitInHeader = 9
-    # headerBottomText = ""
-    rss = false
-    favicon = "/images/favicon.ico"
-
-    # search
-    enableSearch = true
-
-    # options
-    showSummaryCoverInPost = true
-    hasTwitterEmbed = true
+name = "Caro"
 [outputs]
-    home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
+[params]
+author = "Caro"
+background = "#F8F8F8"
+categoriesLimitInHeader = 9
+description = "Recettes simples avec le Ninja Foodi, pour cuisiner tous les jours au Ninja Foodi"
+enableSearch = true
+favicon = "/images/favicon.ico"
+googleAnalitycsID = "G-MNQS94M0ZR"
+hasTwitterEmbed = true
+headerTitle = "Recettes Ninja Foodi"
+home = "Accueil"
+keywords = "recettes ninja foodi français, recettes ninja, recettes faciles au ninja, ninja foodi recette "
+logo = "images/logo.png"
+motto = "Recettes simples avec le Ninja Foodi"
+rss = false
+showSummaryCoverInPost = true
