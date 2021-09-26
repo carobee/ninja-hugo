@@ -4,7 +4,6 @@ categories = ["Plats"]
 cooktime = "20M"
 date = 2021-09-26T10:36:50Z
 description = "Recette simple et rapide de saucisses et frites au ninja foodi"
-draft = true
 image1 = "/images/saucisses-frites-0.jpg"
 image2 = "/images/saucisses-frites-1.jpg"
 ingredients = ["poivre", "sel", "Herbes de provence", "Huile d'olive", "600 g de pommes de terre", "1 saucisse de Toulouse fraiche"]
