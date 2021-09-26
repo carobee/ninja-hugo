@@ -96,5 +96,6 @@ fields:
     required: true
   default: now
 pages:
+- content/caviar-aubergines.md
 - content/riz-mexicain.md
 - content/saucisses-frites.md
