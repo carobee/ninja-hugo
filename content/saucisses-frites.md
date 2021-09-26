@@ -15,21 +15,32 @@ totaltime = "25M"
 type = "post"
 
 +++
-### Préchauffage : 
+### Préchauffage :
 
 Préchauffer le ninja en mode AIR CRISP 200°C.
 
 Éplucher et couper les pommes de terre en frites.  
-Les rincer et les sécher avec un torchon propre ou de l'essuie-tout.  
+Les rincer et les sécher avec un torchon propre ou de l'essuie-tout.
+
 Dans un saladier, mettre 2 cuillères à soupe d'huile d'olives, des herbes, du sel et du poivre.  
 Mettre les frites et mélanger pour imprégner les frites.
+
+![](/images/saucisses-frites-2.jpg)
 
 Mettre les frites au fond de la cuve.
 
 Mettre la **grille** en position haute et poser la saucisse dessus.
 
+![](/images/saucisses-frites-1.jpg)
+
 ### Air crips 200°C 10 minutes.
 
 Au bout des 10 minutes, sortir la saucisse, mélanger les frites et remettre la saucisse avec les frites (sans la grille).
 
+![](/images/saucisses-frites-4.jpg)
+
 ### Air crips 200°C 10 minutes.
+
+Miam ! Bon appétit ;-)
+
+![](/images/saucisses-frites-0.jpg)
