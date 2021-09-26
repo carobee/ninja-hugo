@@ -42,7 +42,6 @@ fields:
 - type: text
   name: quantite
   label: Nombre de parts / personnes
->>>>>>> dev
   description: 'Ex : Pour 4 personnes'
 - type: text
   name: preptime
@@ -103,3 +102,9 @@ fields:
     display_utc: true
     required: true
   default: now
+pages:
+- content/caviar-aubergines.md
+- content/riz-mexicain.md
+- content/roti-de-porc-pommes-de-terre.md
+- content/saucisses-frites.md
+- content/saucisses-lentilles.md

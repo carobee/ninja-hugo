@@ -1,13 +1,12 @@
 baseURL = "https://www.recettes-ninja-foodi.fr"
-title = "Recettes Ninja Foodi"
-languageCode = "fr-fr"
-theme = "dream"
-summaryLength = 10
-removePathAccents=true
-enableRobotsTXT=true
 copyright = "Copyright © 2021. All Rights Reserved"
+enableRobotsTXT = true
+languageCode = "fr-fr"
+removePathAccents = true
 rssLimit = 25
-
+summaryLength = 10
+theme = "dream"
+title = "Recettes Ninja Foodi"
 [author]
     name = "Caro"
 [params]
@@ -37,4 +36,4 @@ rssLimit = 25
     showSummaryCoverInPost = true
     hasTwitterEmbed = true
 [outputs]
-    home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
