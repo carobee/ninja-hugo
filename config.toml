@@ -39,24 +39,18 @@ title = "Recettes Ninja Foodi"
 home = ["HTML", "RSS", "JSON"]
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
-    anonymizeIP = false
+    anonymizeIP = true
     disable = false
-    respectDoNotTrack = false
-    useSessionStorage = false
+    respectDoNotTrack = true
+    useSessionStorage = true
   [privacy.instagram]
-    disable = false
-    simple = false
+    disable = true
   [privacy.twitter]
-    disable = false
-    enableDNT = false
-    simple = false
+    disable = true
   [privacy.vimeo]
-    disable = false
-    enableDNT = false
-    simple = false
+    disable = true
   [privacy.youtube]
-    disable = false
-    privacyEnhanced = false
+    disable = true
 
