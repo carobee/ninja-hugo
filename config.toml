@@ -16,7 +16,7 @@ title = "Recettes Ninja Foodi"
     description = "Recettes simples avec le Ninja Foodi, pour cuisiner tous les jours au Ninja Foodi"
     keywords = "recettes ninja foodi français, recettes ninja, recettes faciles au ninja, ninja foodi recette "
     author = "Caro"
-    #googleAnalitycsID = "G-MNQS94M0ZR"
+    googleAnalitycsID = "G-MNQS94M0ZR"
 
     # specifiques theme dream
     background = "#F8F8F8"
@@ -37,3 +37,26 @@ title = "Recettes Ninja Foodi"
     hasTwitterEmbed = true
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
+
