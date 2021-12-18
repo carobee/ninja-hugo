@@ -12,20 +12,20 @@ tags:
 - pressure
 ingredients:
 - 1 dose de riz
-- 1 dose 1/4 d'eau
+- 1 dose 1/2 d'eau
 - sel
 - épices
 quantite: Pour 4 personnes
 preptime: 1M
-cooktime: 13M
-totaltime: 14M
+cooktime: 9M
+totaltime: 10M
 blabla: 
 author: Caro
 ---
 Verser les ingrédients dans la cuve.
 
-### PRESSURE - HI - 3 minutes
+### PRESSURE - HI - 4 minutes
 
-### KEEP WARM - 10 minutes
+### KEEP WARM - 5 minutes
 
 ![](/images/recettes/tableau-de-cuisson/riz-basmati/cuisson-riz-2.jpg)
