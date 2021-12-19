@@ -5,6 +5,7 @@ languageCode = "fr-fr"
 removePathAccents = true
 rssLimit = 25
 summaryLength = 10
+paginate = 30
 theme = "dream"
 title = "Recettes Ninja Foodi"
 [author]
