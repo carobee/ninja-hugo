@@ -6,7 +6,7 @@ categories:
 - Tableau de cuisson
 date: 2021-12-17T23:00:00.000+00:00
 description: 
-image1: 
+image1: "/images/paysages/paysage-canal-automne-crop.jpg"
 image2: 
 tags:
 - pressure
