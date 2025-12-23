@@ -15,6 +15,7 @@ ingredients:
  - 1 litre de bouillon
  - 1 brique de crème fraîche
  - du parmesan (facultatif)
+ - 1 échalotte (facultatif)
 quantite: Pour 4 personnes
 preptime: 5M
 cooktime: 15M
@@ -25,18 +26,17 @@ author: Caro
 ## 1 - Faire sauter 
 
 Rincer et couper les poireaux en tronçons de 1/2 cm à 1 cm
-
+Éplucher et émincer l'échalotte.
 
 ### SEAR - HI
-Faire chauffer de l'huile d'olive ou du beurre selon le goût
-Ajouter les poireaux et faire revenir **3 minutes**
-Ajouter le riz et faire revenir **3 minutes**
+Faire chauffer de l'huile d'olive ou du beurre selon le goût.
+Faire revenir l'échalotte et les poireaux pendant **3 minutes**.
+Ajouter le riz et faire revenir **3 minutes**.
 **STOP**
 
 ## 2 - Cuire
 
 Ajouter le bouillon (entre 900 ml et 1 litre)
-
 
 Mettre le couvercle spécial pression avec SEAL
 
@@ -53,3 +53,9 @@ Ajouter la crème fraîche et mélanger
 Servir chaud avec un peu de parmesan râpé si besoin
 
   ![](/images/recettes/plats/risotto-poireaux/risotto-poireaux.jpg)
+
+### Note : 
+
+Je fais souvent cette recette rapide en remplaçant les poireaux en fonction de la saison et des envies : 
+* champignons de Paris (conserve, frais émincés ou surgelés)
+* courgettes ou butternut : couper en dés de 2 à 3cm

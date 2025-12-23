@@ -28,11 +28,13 @@ author: Caro
 
 Verser 250 ml d'eau dans la cuve et place le panier vapeur ou une grille.
 Couper le butternut en deux dans le sens de la longueur. Retirer les pépins et déposer chaque moitié de butternut sur la grille.
-Arroser d'un filet d'huile d'olive et faire cuire
+Arroser d'un filet d'huile d'olive et faire cuire.
 
 ![](/images/recettes/plats/butternut-gratine/butternut-fromage-2.jpg)
 
 ### PRESSURE - HI - 8 minutes
+
+Mettre le couvercle spécial pression avec la valve sur SEAL, mettre l'appareil en mode PRESSURE - HI pour 8 minutes.
 
 Pendant ce temps, couper en dés le fromage et écraser avec le St Morêt à la fourchette. Ajouter éventuellement un peu de crème fraîche et assaisonner si besoin (en fonction des fromages utilisés, le sel ne sera pas obligatoire)
 
@@ -47,7 +49,7 @@ Mélanger la chair avec le mélange de fromage et garnir les butternuts.
 
 ### AIR CRISP / 180 / 15 minutes
 
-Mettre à gratiner dans le ninja, toujours sur la grille, en mode Air Crisp.
+Mettre à gratiner dans le ninja, toujours sur la grille, en mode Air Crisp à 180°c pendant 15 minutes.
 
 ![](/images/recettes/plats/butternut-gratine/butternut-fromage-6.jpg)
 

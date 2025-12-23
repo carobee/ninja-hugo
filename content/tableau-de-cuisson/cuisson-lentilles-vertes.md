@@ -23,12 +23,30 @@ totaltime: 28M
 blabla: 
 author: Caro
 ---
+### Au préalable
+
+Éplucher et émincer l'oignon. Rincer les lentilles.
+
 ### SEAR / SAUTE - HI - 3 minutes
+
+Mettre l'appareil en mode SEAR - HI.
 
 Faire revenir les oignons émincés dans un peu d'huile.
 
-Ajouter les lentilles et l'eau.
+Ajouter les lentilles, mélanger, faire revenir une minute.
+
+Ajouter l'eau.
+
+Il est possoble d'ajouter du laurier ou du thym.
 
 ### PRESSURE - HI - 15 minutes
 
+Mettre le couvercle spécial pression, valve sur *SEAL* (bien vérifier l'état et la position du joint à chaque fois).
+
+Mettre l'appareil en mode *PRESSURE* - *HI* pendant 15 minutes.
+
 ### KEEP WARM - 10 minutes
+
+Laisser en position *KEEP WARM* pendant 10 minutes.
+
+Assaisonner en fin de cuisson si besoin.

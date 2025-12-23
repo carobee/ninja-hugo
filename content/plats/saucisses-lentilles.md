@@ -10,6 +10,7 @@ ingredients:
 - 4 saucisses fumées
 - 200 g de lentilles vertes
 - 1 oignon
+- 1 carotte ou 2
 - Huile d'olive
 - Poivre
 - Sel
@@ -28,9 +29,12 @@ type: "post"
 
 Éplucher et couper l'oignon.
 
+Éplucher et couper les carottes en rondelles.
+
 Blanchir les saucisses : Mettre les saucisses dans la cuve du ninja, recouvrir d'eau et allumer en mode **SEAR / SAUTE HI**.
 
 ### SEAR / SAUTE - HI
+
 Éteindre lorsque l'eau commence à bouillir et égoutter les saucisses.
 
 ### Cuisson SEAR / SAUTE - HI
@@ -43,7 +47,7 @@ Faire revenir les oignons 1 minute.
 
 Ajouter les lentilles et faire revenir 1 minute également.
 
-Ajouter les saucisses et recouvrir d'eau.
+Ajouter les saucisses et les carottes et recouvrir d'eau.
 
 Ajouter les herbes.
 
@@ -51,7 +55,7 @@ Ajouter les herbes.
 
 ### PRESSURE - HI
 
-Mettre le couvercle et lancer le mode **PRESSURE HI** pendant **10 minutes**, valve sur **SEAL**.
+Mettre le couvercle spécial et lancer le mode **PRESSURE HI** pendant **10 minutes**, valve sur **SEAL**.
 
 À la fin de la cuisson, relâcher la pression.
 

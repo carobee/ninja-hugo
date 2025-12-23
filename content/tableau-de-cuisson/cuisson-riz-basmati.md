@@ -26,6 +26,12 @@ Verser les ingrédients dans la cuve.
 
 ### PRESSURE - HI - 4 minutes
 
+Placer le couvercle spécial pression, valve sur *SEAL*.
+
+Mettre l'appareil en mode *PRESSURE* - *HI* et preogrammer 4 minutes.
+
 ### KEEP WARM - 5 minutes
+
+Ne pas laisser échapper la vapeur et laisser 5 minutes en mode *KEEP WARM*.
 
 ![](/images/recettes/tableau-de-cuisson/riz-basmati/cuisson-riz-2.jpg)

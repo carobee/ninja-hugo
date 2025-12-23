@@ -25,3 +25,7 @@ Bien laver le quinoa jusqu'à ce que l'eau ne mousse plus.
 Placer l'eau et le quinoa dans la cuve.
 
 ### PRESSURE - HI - Compter 15 minutes depuis le début du préchauffage.
+
+Placer le couvercle spécial pression, valve sur *SEAL*.
+
+Mettre l'appareil en mode *PRESSURE* - *HI* et compter 15 minutes.

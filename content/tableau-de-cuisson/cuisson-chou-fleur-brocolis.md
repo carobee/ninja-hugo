@@ -24,3 +24,9 @@ Placer le panier vapeur ou la grille dans la cuve et y poser le chou-fleur ou le
 Verser l'eau.
 
 ### STEAM 5 À 9 minutes en fonction de la taille du chou-fleur
+
+Fermer le couvercle spécial pression, valve sur VENT.
+
+Mettre l'appareil en mode STEAM pendant 5 à 10 minutes en fonction de la taille du chou-fleur ou du brocolis.
+
+Si le chou doit être cuit en gratin par la suite, diminuer le temps de cuisson par deux.

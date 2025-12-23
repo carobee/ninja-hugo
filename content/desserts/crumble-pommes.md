@@ -24,9 +24,17 @@ totaltime: "33M"
 type: "post"
 author: Caro
 ---
+## Au préalable :
+
+Éplucher les pommes et retirer le trognon si vous avez l'ustensile adapté.
+Sinon, coupez les pommes en 4 gros quartiers et retirer la partie dure du centre.
+Couper les pommes en dés.
+
 ## La cuisson des pommes :
 
 ### SEAR - HI 
+
+Allumer l'appareil en mode SEAR - HI.
 
 Dans la cuve, faire fondre une noix de beurre.
 
@@ -40,25 +48,37 @@ Ajouter dans la cuve :
 ![](/images/recettes/desserts/crumble-pommes/crumble-pommes-2.jpg)
 
 Faire dorer les pommes pendant 5 minutes en remuant.
+
 Ajouter un peu d'eau (3 cuillères à soupe environ)
 
 ### Couvercle pressure - PRESSURE - HI - 8 minutes
+
+Fermer le couvercle avec le bouchon sur SEAL. 
+
+Mettre l'appareil en mode PRESSURE - HI pendant 8 minutes.
 
 ![](/images/recettes/desserts/crumble-pommes/crumble-pommes-4.jpg)
 
 ## Préparation de la pâte :
 
 Pendant ce temps, dans un bol, mélanger le sucre roux et la farine.
+
 Ajouter à la main de beurre mou coupé en dés jusqu'à ce que la pâte fasse des grumeaux et devienne facile à émietter.
 
 ![](/images/recettes/desserts/crumble-pommes/crumble-pommes-3.jpg)
 
 ## Cuisson du crumble
 
-Quand les pommes sont cuites, émietter la préparation sur les pommes.
+Quand les pommes sont cuites, émietter la préparation sur les pommes afin que cela recouvre toutes les pommes.
 
 ![](/images/recettes/desserts/crumble-pommes/crumble-pommes-5.jpg)
 
 ### Couvercle normal - AIR CRISP - 180 - 10 minutes
 
+Fermer le couvercle normal de l'appareil et mettre en mode AIR CRISP - 180°c pendant 10 minutes
+
 ![](/images/recettes/desserts/crumble-pommes/crumble-pommes-6.jpg)
+
+Il peut être préférable de faire la dernière étape dans un plat pour faciliter la présentation et le service.
+
+Dans ce cas, mettre le plat dans un four chaud à 180°C

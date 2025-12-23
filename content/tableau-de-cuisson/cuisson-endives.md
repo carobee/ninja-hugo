@@ -28,6 +28,8 @@ Refermer le couvercle spécial après avoir vérifier le joint. Placer la soupap
 
 ### STEAM - 10 minutes
 
+Mettre l'appareil en mode STEAM pendant 10 minutes.
+
 Si les endives sont plutôt fines, vous pouvez mettre seulement 8 minutes.
 
 De même, vous pouvez enlever 1 ou 2 minutes si vous envisagez de les mettre à gratiner ensuite.
