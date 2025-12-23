@@ -5,11 +5,12 @@ categories:
 cooktime: "20M"
 date: 2025-12-23T10:36:50Z
 description: "Recette simple et rapide de frites façon potatoes au ninja foodi"
+image1: "/images/recettes/legumes/potatoes/potatoes-1.jpg"
 ingredients: 
  - poivre
  - sel
  - Herbes de provence
- - Épices (ex : curcuma, curry, paprika, etc...)
+ - "Épices (ex : curcuma, curry, paprika, etc...)"
  - Huile d'olive
  - 600 g de pommes de terre
 preptime: "5M"
